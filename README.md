@@ -72,3 +72,8 @@ The project follows a structured approach:
     - Launch targeted win-back campaigns for 'At Risk' and 'Hibernating' segments with personalized offers based on their last purchase or category preferences. Consider addressing common pain points identified (e.g., if low review scores are a factor, offer specific service recovery).
 - **Improve Product/Service Quality:**
     - Investigate the root causes of lower review scores among 'At Risk' segments, potentially focusing on specific product categories or logistical issues that lead to dissatisfaction.
+## 6. Tools & Technologies Used
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn
+- **Power BI**: Interactive dashboard design
+- **Jupyter Notebooks**: Data analysis pipeline
+- **Excel**: Intermediate verification
