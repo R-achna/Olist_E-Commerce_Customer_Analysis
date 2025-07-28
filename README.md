@@ -11,6 +11,8 @@ This project focuses on analyzing customer behavior for the Olist E-commerce pla
 - To understand customer retention patterns over time.
 - To propose actionable, data-driven strategies to enhance customer value and loyalty.
 
+![Olist_CLTV_Strategy_Report_page-0001](https://github.com/user-attachments/assets/f8573618-3767-4fc4-9bf7-24b10e03add6)
+
 ### 2. Data Source
 
 The dataset used in this project is the "Brazilian E-commerce Public Dataset by Olist" available on Kaggle. It provides real-world transactional data from Olist stores, covering orders, products, customers, sellers, payments, and reviews.
@@ -61,6 +63,8 @@ The project follows a structured approach:
     - Champions frequently purchase products in the 'health_beauty' and 'telephony' categories, suggesting opportunities for targeted cross-selling."
     - Customers in 'At Risk' and 'Hibernating' segments exhibit lower average review scores (e.g., 3.5 vs. 4.5 for Champions), indicating that negative experiences might be a key driver of churn.
     - Credit card is the predominant payment method across all segments, but specific segments might show slight variations.
+      
+  Report: https://drive.google.com/file/d/1tHi5r64Jr1mvVqqA2ZCM085RTY_dxelt/view?usp=drive_link
 
 ### 5. Strategic Recommendations
 
